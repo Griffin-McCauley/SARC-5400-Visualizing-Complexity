@@ -1,0 +1,61 @@
+Reporter Name,Partner Name,Import (US$ Thousand),Export (US$ Thousand)
+United States,China,457164215.51,
+United States,Canada,276195545.88,
+United States,Japan,122483985.44,
+United States,Canada,,255021619.21
+United States,China,,124648507.63
+United States,Japan,,64090703.42
+China,Japan,174655178.94,
+China,"Korea, Rep.",173100170.79,
+China,United States,136339520.98,
+China,United States,,452492876.33
+China,Japan,,142596624.65
+China,"Korea, Rep.",,112476215.95
+Japan,China,163850555.25,
+Japan,United States,71767264.66,
+Japan,"Korea, Rep.",26599512.86,
+Japan,China,,141399199.91
+Japan,United States,,118793185.94
+Japan,"Korea, Rep.",,44688451.49
+Germany,China,134918978.47,
+Germany,United States,78402821.57,
+Germany,France,64338792.2,
+Germany,United States,,119199209.96
+Germany,China,,110372411.27
+Germany,France,,103733108.56
+India,China,58798824.68,
+India,United States,26615672.62,
+India,"Korea, Rep.",12168869.0,
+India,United States,,49320596.19
+India,China,,19008266.74
+India,United Kingdom,,7767619.5
+United Kingdom,China,75478932.26,
+United Kingdom,Germany,74403159.91,
+United Kingdom,United States,58221696.94,
+United Kingdom,United States,,55608216.4
+United Kingdom,Germany,,41631996.78
+United Kingdom,France,,23871685.36
+France,Germany,101023682.18,
+France,Italy,48601325.89,
+France,China,41151580.73,
+France,Germany,,69891044.73
+France,Italy,,37139021.77
+France,United States,,37082572.68
+Italy,Germany,70023566.02,
+Italy,China,36842102.19,
+Italy,France,35737238.29,
+Italy,Germany,,64060376.75
+Italy,France,,51614464.59
+Italy,United States,,48473450.84
+Canada,United States,197728064.73,
+Canada,China,57054603.44,
+Canada,Germany,12881822.1,
+Canada,United States,,284477538.5
+Canada,China,,18861178.17
+Canada,United Kingdom,,14855375.01
+"Korea, Rep.",China,108869793.92,
+"Korea, Rep.",United States,57765105.16,
+"Korea, Rep.",Japan,46024619.91,
+"Korea, Rep.",China,,132555008.04
+"Korea, Rep.",United States,,74395964.28
+"Korea, Rep.",Japan,,25092446.8
