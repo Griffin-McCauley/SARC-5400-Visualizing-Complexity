@@ -12,12 +12,9 @@ Data for this project was collected from the [World Bank's DataBank](https://dat
 
 ## Final Reflection/Report
 
-All of my preliminary sketches and initial brainstorming notes can be found in the 'Ugly Sketches' (& Notes).pdf located within the Deliverables folder of this repository.
+All of my preliminary sketches and initial brainstorming notes can be found in the ['Ugly Sketches' (& Notes).pdf](Deliverables/'Ugly Sketches' (& Notes).pdf) located within the Deliverables folder of this repository.
 
-<a href="Deliverables/reflection.pdf" target="_blank">Test Report</a>
-[Test 2](Deliverables/reflection.pdf){:target="_blank"}
-
-The final written reflection/report associated with this project chronicles the entire process of conceptualizing and designing this visualization along with a concise disucssion of how I went about implementing these ideas fully from scratch in Observable using D3, and this document can be found at Deliverables/reflection.pdf within this repository.
+The final written reflection/report associated with this project chronicles the entire process of conceptualizing and designing this visualization along with a concise disucssion of how I went about implementing these ideas fully from scratch in Observable using D3, and this document can be found at [Deliverables/reflection.pdf](Deliverables/reflection.pdf) within this repository.
 
 ## Dynamic Visualization
 
