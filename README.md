@@ -2,7 +2,9 @@
 
 ## Project Description
 
-As the final project for the course Data Visualization within the University of Virginia's School of Architecture and part of the curriculum for the Master's of Science in Data Science program, students were tasked with conceptualizing, designing, and creating both a web-enabled, data-driven, dynamic visualization and a static visualization unified by the broad, overarching theme of trust. 
+As the final project for the course Data Visualization within the University of Virginia's School of Architecture and part of the curriculum for the Master's of Science in Data Science program students were tasked with conceptualizing, designing, and creating both a web-enabled, data-driven, dynamic visualization and a static visualization unified by the general, overarching theme of trust.
+
+With 'trust' as my guiding word of inspiration, the broad topic I attempted to pursue and explore further was that of climate change through the lens of emissions commitments. While there are numerous moral and philosophical motivations to want to support and promote a healthier and more sustainable ecological footprint, when it comes to the scale of nations, I believe the primary incentives are more financial in nature, and, for this reason, I decided to analyze this subject from an international trade and economics perspective. The explicit question I sought an answer to was, "Which trade partners and economic allies can be trusted and relied on to follow and adhere to their formally declared emissions commitments, and which countries are in a position to leverage their economic weight and prowess to positively incentivize lagging countries to improve their practices?"
 
 ## Data
 
@@ -10,7 +12,9 @@ Data for this project was collected from the [World Bank's DataBank](https://dat
 
 ## Final Reflection/Report
 
+All of my preliminary sketches and initial brainstorming notes can be found in the 'Ugly Sketches' (& Notes).pdf located within the Deliverables folder of this repository.
 
+The final written reflection/report associated with this project chronicles the entire process of conceptualizing and designing this visualization along with a concise disucssion of how I went about implementing these ideas fully from scratch in Observable using D3, and this document can be found at Deliverables/reflection.pdf within this repository.
 
 ## Dynamic Visualization
 
