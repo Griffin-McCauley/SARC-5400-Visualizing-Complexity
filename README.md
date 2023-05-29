@@ -8,7 +8,7 @@ With 'trust' as my guiding word of inspiration, the broad topic I attempted to p
 
 ## Data
 
-Data for this project was collected from the [World Bank's DataBank](https://databank.worldbank.org/home) and was compiled and wrangled in JupyterLab using Python. All relevant data for this project can be found as CSV files in the Data folder of this repository, and the cleaning.ipynb file within the same folder contains the necessary code to produce the data.csv and trade_matrix.csv files supporting the visualizations associated with this project.
+Data for this project was collected from the [World Bank's DataBank](https://databank.worldbank.org/home) and was compiled and wrangled in JupyterLab using Python. All relevant data for this project can be found as CSV files in the Data folder of this repository, and the [cleaning.ipynb](Data/cleaning.ipynb) file within the same folder contains the necessary code to produce the [data.csv](Data/data.csv) and [trade_matrix.csv](Data/trade_matrix.csv) files supporting the visualizations associated with this project.
 
 ## Final Reflection/Report
 
@@ -18,8 +18,9 @@ The final written reflection/report associated with this project chronicles the 
 
 ## Dynamic Visualization
 
-The web-enabled, data-driven, dynamic version of my visualization was produced using Observable and D3.js and can be found at the following address:
-https://observablehq.com/embed/a12d950d47db88f9?cells=svg
+The web-enabled, data-driven, dynamic version of my visualization was produced using Observable and D3.js and can be found [here](https://observablehq.com/embed/a12d950d47db88f9?cells=svg).
+
+The Observable notebook containing all of the code used to parse the raw data and render this final dynamic visualization can be found [here](https://observablehq.com/d/a12d950d47db88f9).
 
 ## Static Visualization
 
