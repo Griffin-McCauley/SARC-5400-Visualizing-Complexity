@@ -2,6 +2,6 @@
 
 ## Static Visualization
 
-![Static Visualization](/Deliverables/static.pdf)
+[Static Visualization](/Deliverables/static.pdf)
 
 ## Dynamic Visualization
