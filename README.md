@@ -6,7 +6,11 @@ As the final project for the course Data Visualization within the University of 
 
 ## Data
 
-Data for this project was collected from the [World Bank's DataBank](https://databank.worldbank.org/home) and was compiled and wrangled in JupyterLab using Python.
+Data for this project was collected from the [World Bank's DataBank](https://databank.worldbank.org/home) and was compiled and wrangled in JupyterLab using Python. All relevant data for this project can be found as CSV files in the Data folder of this repository, and the cleaning.ipynb file within the same folder contains the necessary code to produce the data.csv and trade_matrix.csv files supporting the visualizations associated with this project.
+
+## Final Reflection/Report
+
+
 
 ## Dynamic Visualization
 
