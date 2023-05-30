@@ -1,9 +1,9 @@
 # Exploring Country-Level CO2 Emissions Accountability Within the Context of International Trade Relationships
 
-Visualizing Complexity\n
-Data Visualization (SARC 5400)\n
-Professor Eric Field\n
-9 May 2023\n
+Visualizing Complexity<br/>
+Data Visualization (SARC 5400)<br/>
+Professor Eric Field<br/>
+9 May 2023
 
 ## Project Description
 
