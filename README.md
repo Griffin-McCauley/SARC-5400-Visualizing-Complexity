@@ -1,5 +1,10 @@
 # Exploring Country-Level CO2 Emissions Accountability Within the Context of International Trade Relationships
 
+### Visualizing Complexity
+### Data Visualization (SARC 5400)
+### Professor Eric Field
+### 9 May 2023
+
 ## Project Description
 
 As the final project for the course Data Visualization within the University of Virginia's School of Architecture and part of the curriculum for the Master's of Science in Data Science program students were tasked with conceptualizing, designing, and creating both a web-enabled, data-driven, dynamic visualization and a static visualization unified by the general, overarching theme of trust.
