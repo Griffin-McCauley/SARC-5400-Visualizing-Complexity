@@ -29,5 +29,5 @@ The Observable notebook containing all of the code used to parse the raw data an
 
 ## Static Visualization
 
-The static version of my visualization contains .... and can be found below.
+The static version of my visualization was created in Adobe Illustrator and contains extractive annotations highlighting the most valuable insights uncovered through this visual data analysis process. A copy of this static visualization can be seen below and is also available at [Deliverables/static.pdf](Deliverables/static.pdf) within this repository.
 ![Static Visualization](/Deliverables/static.png)
